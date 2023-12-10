@@ -21,7 +21,7 @@ The second part consists of:
 Tu run the notebook, you need to store all the files in the same folder in your machine.
 To test the service, you only need to run the test.py file.
 The link of the service is: 
-app_url = "https://gradepredict-400511.lm.r.appspot.com/predict"
+app_url = "https://gradepredict-400511.lm.r.appspot.com/predict" (I have disabled it for now so that GCS would not charge).
 You are free to suggest any changed on how the project could be improved.
 The original source of the file: link.
 After downloading the datasets, name accept.csv and reject.csv. Please them in the same folder where the main Jupyter notebook file.
